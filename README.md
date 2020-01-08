@@ -9,3 +9,6 @@ Bot Tests
 - ultrahook bot `http://localhost:8080`
 - Now set webhook on github repo as http://bot.kbtest.ultrahook.com
 
+## local testing
+
+- Create a webapp to receve the webooks.
